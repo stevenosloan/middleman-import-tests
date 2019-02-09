@@ -1,0 +1,23 @@
+/* line 1, /Volumes/Dev/personal/middleman-import-examples/middleman-3.5.1/source/stylesheets/test.css.scss */
+body {
+  background: #fd0; }
+
+/* line 3, /Volumes/Dev/personal/middleman-import-examples/middleman-3.5.1/source/stylesheets/site.css.scss */
+body {
+  background-color: #fbc547;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  padding: 18vh 1rem;
+  text-align: center; }
+
+/* line 14, /Volumes/Dev/personal/middleman-import-examples/middleman-3.5.1/source/stylesheets/site.css.scss */
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  /* line 17, /Volumes/Dev/personal/middleman-import-examples/middleman-3.5.1/source/stylesheets/site.css.scss */
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+/* line 23, /Volumes/Dev/personal/middleman-import-examples/middleman-3.5.1/source/stylesheets/site.css.scss */
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem; }
